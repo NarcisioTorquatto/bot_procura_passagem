@@ -1,0 +1,3 @@
+$exclude = @("venv", "pesquisa_passagem.zip")
+$files = Get-ChildItem -Path . -Exclude $exclude
+Compress-Archive -Path $files -DestinationPath "pesquisa_passagem.zip" -Force
