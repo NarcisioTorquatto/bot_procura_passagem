@@ -1,7 +1,7 @@
 
 # 🚀 Bot de Monitoramento de Preço de Passagens
 
-Este projeto é um bot automatizado desenvolvido com BotCity e Selenium para monitorar o preço de passagens aéreas no site da Gol Linhas Aéreas. Quando encontra passagens dentro de um valor desejado, o bot envia um alerta por e-mail automaticamente.
+Este projeto é um bot automatizado desenvolvido com BotCity para monitorar o preço de passagens aéreas no site da Gol Linhas Aéreas. Quando encontra passagens dentro de um valor desejado, o bot envia um alerta por e-mail automaticamente.
 
 # 🛠 Tecnologias Utilizadas
 
